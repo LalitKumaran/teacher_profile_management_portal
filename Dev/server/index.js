@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 //const busRouter = require("./routes/bus");
 //const userRouter = require("./routes/user");
 
-const DB="mongodb+srv://Lalit:Lalit123@cluster0.ktsia7a.mongodb.net/?retryWrites=true&w=majority"
+const DB="mongodb+srv:URI"
 const PORT = 8000;
 const app=express();
 
